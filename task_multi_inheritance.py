@@ -89,13 +89,6 @@
 # fs.get_info()
 
 
-
-
-# list = [22, 16, 13, 7]
-# random.shuffle(list)
-# print ("Перемешанный список : ",  list)
-
-
 # task3
 
 # import random
